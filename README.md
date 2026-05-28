@@ -2,7 +2,7 @@
 
 **Founder & Solo Architect — ROCKRLite**
 
-Building **ROCKRLite**: an **AI-native** live-experience creation and auction platform on the custom **ROCKRCOIN (RKS)** blockchain. The platform removes upfront cost, legal risk, and financial risk from experience creators ("Creators") by handling the full lifecycle — creation, auction, settlement — on-chain.
+Building **ROCKRLite**: an **AI-native** live-experience creation and auction platform on the custom **ROCKRCOIN (RKS)** blockchain. The platform removes upfront cost, legal risk, and financial risk from experience creators ("Creators") by handling the full lifecycle — creation, auction, settlement — on-chain, for every genre and type of live experience: Education, The Arts, Community, Sport, High Street Retail and Health.
 
 **AI is woven through the platform via a pluggable factory architecture**, not bolted on — scoping ROCKRCOIN Protocol Issuance, Creator's structural inputs, venue requirements, production-scale classification, frequency shape, content enhancement, entity extraction, and ID validation — every provider swappable behind a clean interface (`IDataService`, ORCID, SerpApi/Google Scholar). The roadmap extends this into marketing automation and a full **AI-driven live tutorial course** experience: automated **course-material generation**, learner **personalisation**, and **assessment** — all delivered inside the same capsule-based architecture, with AI providers remaining pluggable per ROCKR instance.
 
