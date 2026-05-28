@@ -27,7 +27,7 @@ Current `main`, post Phase 0 + Phase 1 of the multi-agent build:
 
 The 9 production routes undersell the surface area. Each route is a step in a carousel composed of multiple **capsules**, and each capsule carries its own bottom sheets, validation, AI integration, and i18n. Flat route count, deep component tree — **231 React components** implementing a reusable **9-step carousel + capsule pattern**.
 
-The hard part is built once. Profile creation/switching, the ROCKRCOIN auction module, and accounts all replicate this proven structure, so each new app surface ships at a fraction of the original cost. **Built to accelerate with a team.**
+The hard part is built once. Profile creation/switching; the ROCKRCOIN auction module; ROCKRCOIN, RUIMA account balance management; all replicate this proven structure, so each new app surface ships at a fraction of the original cost. **Built to accelerate with a team.**
 
 ---
 
