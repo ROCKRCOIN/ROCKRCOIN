@@ -1,19 +1,12 @@
-# David Clancy
+David Clancy — founder and chief architect of ROCKR, and Principal Investigator of a formal-verification programme carried by two research vehicles: ROCKR Proof Labs Ltd (London) and ROCKR Preuves (Dordogne, France).
 
-**Founder & Solo Architect — ROCKRLite**
+The programme proves, by theorem, the half of every transaction that nobody has yet proved — who is entitled to be there, once, as themselves — for a settlement system that binds value to authenticated human presence. Model Zero, a Lean 4 model of that system, states four whole-system theorems: attested transfer; issuance only against authenticated activity; erasure with asset preservation; conservation with halt semantics. Status: 18 of 18 statements proved, core Lean only, Apache 2.0. Nothing is yet proved of running code; the proof boundary is being pushed from model to implementation.
 
-Building **ROCKRLite**: an **AI-native** live-experience creation and auction platform on the custom **ROCKRCOIN (RKS)** blockchain. The platform removes upfront cost, legal risk, and financial risk from experience creators ("Creators") by handling the full lifecycle — creation, auction, settlement — on-chain, for every genre and type of live experience: Education, The Arts, Community, Sport, High Street Retail and Health.
+The system the model describes settles ROCKRCOIN (RKS), a digital utility asset issued only against authenticated live activity and held only by verified humans, on an identity-first Cosmos SDK chain. ROCKRLite is the application: an AI-native platform for creating, allocating and settling live experiences of every kind — education, the arts, community, sport, high-street retail, health — with every AI and identity provider pluggable behind a published interface, so that each ROCKR instance chooses its own. Seven published institutional studies (four cities, three banks) show each place with and without the settlement layer.
 
-**AI is woven through the platform via a pluggable factory architecture**, not bolted on — scoping ROCKRCOIN Protocol Issuance, Creator's structural inputs, venue requirements, production-scale classification, frequency shape, content enhancement, entity extraction, and ID validation — every provider swappable behind a clean interface (`IDataService`, ORCID, SerpApi/Google Scholar). The roadmap extends this into marketing automation and a full **AI-driven live tutorial course** experience: automated **course-material generation**, learner **personalisation**, and **assessment** — all delivered inside the same capsule-based architecture, with AI providers remaining pluggable per ROCKR instance.
+Working method: AI drafts specifications, proofs and code; the Lean kernel checks every proof regardless of how it was found; a named human rules every design question; per-step provenance notes record which was which.
 
----
-
-## Scale
-
-Current `main`, post Phase 0 + Phase 1 of the multi-agent build:
-
-**~69,000 lines of application code across 939 files**
-
+Repositories: rockr-proof-labs (Model Zero and the verified components) · ROCKRCOIN (the application and whitepaper). Programme: rockrprooflabs.org · rockrpreuves.fr.
 | Layer | Count |
 |---|---|
 | React components | 231 |
